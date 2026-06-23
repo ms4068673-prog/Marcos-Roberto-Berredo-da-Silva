@@ -1,0 +1,8 @@
+{
+  "name": "Remix: EduApta",
+  "description": "Elaborador de material didático adaptado",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
